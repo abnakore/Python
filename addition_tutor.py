@@ -22,5 +22,5 @@ def quize(scores):
         print(f"the correct answer is {_answer}")
         print(f"Your total score(s) is {scores}")
 
-
-main()
+if __name__ == '__main__':
+    main()
